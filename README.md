@@ -21,5 +21,5 @@ First, install the required Python package:
 pip install bibtexparser
 
 Run:-
-Locate the directory and use command:
+Locate the directory in terminal and use the command:
 python3 GUI_version_BIB_Cleaner.py
