@@ -19,3 +19,7 @@ First, install the required Python package:
 
 ```bash
 pip install bibtexparser
+
+Run:-
+Locate the directory and use command:
+python3 GUI_version_BIB_Cleaner.py
